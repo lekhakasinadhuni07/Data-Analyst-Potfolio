@@ -21,7 +21,7 @@
  
 ## Portfolio Projects
 ## Python
-## 🚀 Customer Segmentation Using K-Means Clustering
+### 🚀 Customer Segmentation Using K-Means Clustering
 
 **Code:** [`Customer Segmentation Using K-Means Clustering`](https://github.com/lekhakasinadhuni07/Customer-Segmentation-K-Means-Clustering)
 
@@ -47,7 +47,7 @@ Data was visualized using scatter plots to clearly distinguish customer segments
 - **Customer Retention:** Use loyalty programs to encourage cautious spenders to increase spending.
 - **Sales Forecasting:** Leverage customer behavior insights for accurate revenue predictions and inventory management.
 
-## 🚀 Banking Customer Churn Prediction
+### 🚀 Banking Customer Churn Prediction
 
 **Code:** [`Banking Customer Churn Prediction`](https://github.com/lekhakasinadhuni07/Churn-Prediction-Model)
 
@@ -74,7 +74,7 @@ Data was visualized using scatter plots to clearly distinguish customer segments
 - **Data-Driven Decision Making:** Use Gradient Boosting Classifier for real-time churn prediction, enabling proactive retention efforts.
 
 ## SQL
-## 🚀 Food delivery using Advanced SQL
+### 🚀 Food delivery using Advanced SQL
 **Code:** [`Food delivery using Advanced SQL`](https://github.com/lekhakasinadhuni07/Food_delivery_analysis)
 
 ### ✔ Project Overview
@@ -97,7 +97,7 @@ This project leverages SQL-based data analysis to extract key business insights 
 - **Optimize Restaurant Operations:** Align kitchen and staffing resources with peak demand, improve menu offerings, and address cancellation issues.
 - **Boost Delivery Efficiency:** Deploy AI-driven route optimization, reward top riders, and allocate resources strategically to reduce delays.
 
-## 🚀 Walmart Sales Analysis using SQL
+### 🚀 Walmart Sales Analysis using SQL
 **Code:** [`Walmart Sales Analysis using SQL`](https://github.com/lekhakasinadhuni07/walmart_sales_analysis_SQL)
 
 ### ✔ Project Overview
@@ -117,7 +117,7 @@ This project is to delve into the Walmart Sales data, analyzing top-performing b
 - **Customer & Location Focus:** Strengthen engagement with female customers through targeted promotions and loyalty programs; implement tailored marketing for high-revenue cities.
 - **Operational Efficiency:** Align inventory, staffing, and marketing efforts with peak sales periods and regional demand trends; encourage digital payments for cost savings.
 
-## 🚀 Library Management system using SQL
+### 🚀 Library Management system using SQL
 
 **Code:** [`Library Management system using SQL`](https://github.com/lekhakasinadhuni07/Library_Management_system)
 
@@ -138,7 +138,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ## Power BI
 
-## 🚀 Hotel Revenue Dashboard
+### 🚀 Hotel Revenue Dashboard
 
 **Code:** [`Hotel Revenue Dashboard`](https://github.com/lekhakasinadhuni07/PowerBI_Dashboard)
 
@@ -152,7 +152,7 @@ This Power BI project provides a comprehensive dashboard to analyze the financia
 - **Revenue Diversification:** To mitigate risks from unpredictable events (e.g., COVID-19), introducing loyalty programs, long-stay packages, or alternative revenue streams (events, co-working spaces, etc.) can help stabilize earnings.
 
 
-## 🚀 Financial Dashboard
+### 🚀 Financial Dashboard
 
 **Code:** [`Financial Dashboard`](https://github.com/lekhakasinadhuni07/PowerBI_Dashboard)
 
@@ -165,7 +165,7 @@ This personal financial dashboard provides insights into income, expenses, savin
 - Savings are mostly in Mutual Funds, but liquid cash is depleting.
 - A stable income helps financial stability, but reducing expenses can improve savings further.
 
-## 🚀 HR Analytics- Absenteeism Dashboard
+### 🚀 HR Analytics- Absenteeism Dashboard
 
 **Code:** [`HR Analytics- Absenteeism Dashboard`](https://github.com/lekhakasinadhuni07/PowerBI_Dashboard)
 
