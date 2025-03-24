@@ -191,3 +191,8 @@ This HR analytics dashboard provides insights on the reasons for absenteeism and
 - [`Foundations of Data Science`](https://www.coursera.org/account/accomplishments/verify/DNRLLEY3AD7N)
 - [`Foundations of User Experience (UX) Design`](https://www.coursera.org/account/accomplishments/verify/95Z3HNEXSUDR)
 - [`Go Beyond the Numbers: Translate Data into Insights`](https://www.coursera.org/account/accomplishments/verify/7VSLUFQ7QBY8)
+
+## Contact
+Linkedin [`@LekhaKasinadhuni`](https://www.linkedin.com/in/lekha-kasinadhuni-9b342a161/)
+
+Email [kasinadhunilekha@gmail.com](mailto:kasinadhunilekha@gmail.com)
