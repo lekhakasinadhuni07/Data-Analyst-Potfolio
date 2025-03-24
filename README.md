@@ -73,6 +73,22 @@ Data was visualized using scatter plots to clearly distinguish customer segments
 - **Credit Score & Financial Health Monitoring:** Customers with a lower balance and fluctuating credit scores should be monitored for churn risk.
 - **Data-Driven Decision Making:** Use Gradient Boosting Classifier for real-time churn prediction, enabling proactive retention efforts.
 
+### 🚀 Data Cleaning App Python
+
+**Code:** [`Data Cleaning App Python`](https://github.com/lekhakasinadhuni07/Data-Cleaning-App-Python)
+
+### ✔ Project Overview
+
+The Data Cleaning App is a Python-based application built for fast and efficient dataset cleaning. It seamlessly handles duplicates, missing values, and data inconsistencies, delivering a cleaned output in seconds. Designed for ease of use and high performance, it has been rigorously tested across various datasets to ensure accuracy and smooth execution.
+
+### ✔ Key Features
+
+- Fast & Efficient: Cleans large datasets (10k+ rows) in seconds.
+- Duplicate Backup: Stores removed duplicates separately.
+- Smart Missing Value Handling: Fills numeric values with the mean and removes non-numeric missing rows.
+- User-Friendly: Step-by-step prompts for smooth execution.
+- Supports Multiple Formats: Compatible with CSV and Excel files.
+
 ## SQL
 ### 🚀 Food delivery using Advanced SQL
 **Code:** [`Food delivery using Advanced SQL`](https://github.com/lekhakasinadhuni07/Food_delivery_analysis)
