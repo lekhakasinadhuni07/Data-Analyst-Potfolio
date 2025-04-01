@@ -4,19 +4,19 @@
 
 
 ## Table of Contents
-- Python
+### Python
    - [`Customer Segmentation Using K-Means Clustering`](https://github.com/lekhakasinadhuni07/Customer-Segmentation-K-Means-Clustering)
    - [`Banking Customer Churn Prediction`](https://github.com/lekhakasinadhuni07/Churn-Prediction-Model)
    - [`Data Cleaning App Python`](https://github.com/lekhakasinadhuni07/Data-Cleaning-App-Python)
-- SQL
+### SQL
    - [`Food delivery using Advanced SQL`](https://github.com/lekhakasinadhuni07/Food_delivery_analysis)
    - [`Walmart Sales Analysis using SQL`](https://github.com/lekhakasinadhuni07/walmart_sales_analysis_SQL)
    - [`Library Management system using SQL`](https://github.com/lekhakasinadhuni07/Library_Management_system)
-- Power BI
+### Power BI
    - [`Hotel Revenue Dashboard`](https://github.com/lekhakasinadhuni07/PowerBI_Dashboard)
    - [`Financial Dashboard`](https://github.com/lekhakasinadhuni07/PowerBI_Dashboard)
    - [`HR Analytics- Absenteeism Dashboard`](https://github.com/lekhakasinadhuni07/PowerBI_Dashboard)
-- Tableau
+### Tableau
    - [`Visit Tableau projects`](https://public.tableau.com/app/profile/lekha.kasinadhuni/vizzes)
  
 ## Portfolio Projects
